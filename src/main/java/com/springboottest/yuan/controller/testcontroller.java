@@ -9,7 +9,7 @@ public class testcontroller {
     public String test(){
         System.out.println("hhhh");
         System.out.println("h22hhh66");
-        System.out.println("hhh33333333333的点点滴滴d多多多多多多3h66");
+        System.out.println("hhh333333333333h66");
         return "index.html";
 
     }
