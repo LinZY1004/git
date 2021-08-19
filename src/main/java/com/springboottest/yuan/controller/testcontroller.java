@@ -10,6 +10,8 @@ public class testcontroller {
         System.out.println("hhhh");
         System.out.println("hhhh66");
         System.out.println("hhhh66");
+        System.out.println("hhhh66");
+        System.out.println("hhhh66");
         return "index.html";
 
     }
